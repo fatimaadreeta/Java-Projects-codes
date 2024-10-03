@@ -1,0 +1,11 @@
+James Bond,53000,5,1
+Peter Parker,89000,3,2
+Clark Kent,93000,3,3
+Mary Jane Watson,17000,1,4
+Logan,72000,7,5
+Bruce Wayne,65000,2,6
+Tony Stark,34000,3,7
+Lois Lane,21000,6,8
+Scott Summers,42000,4,9
+Diana,63000,3,10
+Steve Rogers,33000,2,11
